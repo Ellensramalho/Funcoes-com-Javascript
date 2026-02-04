@@ -1,7 +1,6 @@
 # 📘 Conceitos de Funções e Padrões em JavaScript
 
-Este projeto tem como objetivo estudar e demonstrar **diferentes formas de criar funções e estruturar código em JavaScript**, focando em organização, encapsulamento e boas práticas de escrita.
-
+Este projeto tem como objetivo estudar e demonstrar **diferentes formas de criar funções e estruturar código em JavaScript**.
 Ele aborda desde conceitos básicos de funções até padrões mais avançados de criação de objetos e controle de imutabilidade.
 
 ---
