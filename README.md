@@ -35,9 +35,9 @@ Mostra a sintaxe mais curta e moderna para escrever funções, além de explicar
 
 Aborda o uso de funções que são executadas imediatamente após serem criadas, muito úteis para:
 
-* Evitar poluir o escopo global
-* Criar isolamento de variáveis
-* Organizar melhor o código
+* Evitar poluir o escopo global.
+* Criar isolamento de variáveis.
+* Organizar melhor o código.
 
 ---
 
@@ -45,9 +45,9 @@ Aborda o uso de funções que são executadas imediatamente após serem criadas,
 
 Demonstra o conceito de **encapsular dados** dentro de funções, permitindo:
 
-* Proteger informações internas
-* Expor apenas o que for necessário
-* Criar uma espécie de “API” para o objeto
+* Proteger informações internas.
+* Expor apenas o que for necessário.
+* Criar uma espécie de “API” para o objeto.
 
 ---
 
@@ -61,16 +61,16 @@ Explica o padrão **Factory**, que é usado para criar e retornar objetos de for
 
 Apresenta uma variação do padrão Factory onde o objeto retornado é **imutável**, garantindo:
 
-* Mais segurança contra alterações acidentais
-* Mais previsibilidade no comportamento do objeto
-* Código mais robusto e confiável
+* Mais segurança contra alterações acidentais.
+* Mais previsibilidade no comportamento do objeto.
+* Código mais robusto e confiável.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-* JavaScript (ES6+)
-* Node.js ou navegador para execução dos scripts
+* JavaScript (ES6+).
+* Node.js ou navegador para execução dos scripts.
 
 ---
 
@@ -89,14 +89,13 @@ O projeto está organizado para facilitar o estudo de cada conceito separadament
 
 Você pode usar este projeto para:
 
-* Estudar conceitos fundamentais de JavaScript
-* Revisar padrões de criação de funções e objetos
-* Servir como base para projetos maiores
-* Treinar organização e arquitetura de código
+* Estudar conceitos fundamentais de JavaScript.
+* Revisar padrões de criação de funções e objetos.
+* Servir como base para projetos maiores.
+* Treinar organização e arquitetura de código.
 
 ---
 
 ## ✨ Considerações Finais
 
 Este repositório é ideal para quem quer **entender melhor como o JavaScript lida com funções, escopo, encapsulamento e criação de objetos**, indo além do básico e se aproximando de padrões usados no dia a dia profissional.
-
